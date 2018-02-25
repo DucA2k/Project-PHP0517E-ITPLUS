@@ -1,0 +1,27 @@
+<?php 
+	return [
+		"cart" => "Bạn có ",
+		"product" => "Sản phẩm",
+		"success" => "Mua hàng thành công",
+		"fail" => "Đã xảy ra lỗi",
+		"no" => "STT",
+		"quantity" => "Số lượng",
+		"productName" => "Tên SP",
+		"price" => "Giá",
+		"discount" => "Giảm giá",
+		"amount" => "Thành tiền",
+		"remove" => "Xóa",
+		"removeAll" => "Xóa tất cả mặt hàng",
+		"continue" => "Đặt hàng",
+		"name" => "Họ và tên",
+		"email" => "Email",
+		"address" => "Địa chỉ",
+		"phone" => "Số điện thoại",
+		"payment" => "Hình thức thanh toán",
+		"cash" => "Tiền mặt",
+		"creditcard" => "Thẻ ngân hàng",
+		"total" => "Tổng tiền",
+		"confirm" => "Xác nhận",
+		"register" => "Đăng ký",
+	]
+?>

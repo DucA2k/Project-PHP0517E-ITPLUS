@@ -1,0 +1,27 @@
+<?php 
+	return [
+		"cart" => "You have ",
+		"product" => "Product in your Cart",
+		"success" => "Successfully",
+		"fail" => "Failed",
+		"no" => "No.",
+		"quantity" => "Quantity",
+		"productName" => "Product Name",
+		"price" => "Price",
+		"discount" => "Discount",
+		"amount" => "Amount",
+		"remove" => "Remove",
+		"removeAll" => "Remove All Items",
+		"continue" => "Continue Shopping",
+		"name" => "Name",
+		"email" => "Email",
+		"address" => "Address",
+		"phone" => "Phone",
+		"payment" => "Payment",
+		"cash" => "Cash",
+		"creditcard" => "Credit Card",
+		"total" => "Total",
+		"confirm" => "Confirm",
+		"register" => "Register",
+	]
+?>
