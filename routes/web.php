@@ -126,5 +126,3 @@ Route::group(['middleware' => ['checkAdmin']], function(){
 	Route::get('cart/updown/{id}/{quantity}','Cart\CartController@updown');
 	Route::get('cart/upgrade/{id}/{quntity}','Cart\CartController@upgrade');
 	Route::resource('cart/order','Cart\OrderController');
-
-// Commit 1
